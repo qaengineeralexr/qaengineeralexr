@@ -57,6 +57,7 @@ He trabajado en diseño de test cases, validación de frontend contra Figma y re
 <p><strong>Mi contribución:</strong> Definí casos de prueba API, ejecuté solicitudes en Postman, analicé respuestas HTTP y reporté inconsistencias funcionales en Jira.</p>
 <p><strong>Resultados:</strong> Detección de endpoints que aceptaban datos incorrectos, mejorando la robustez del backend.</p>
 <p><strong>Herramientas:</strong> Postman, Jira.</p>
+  <p><a href="https://github.com/qaengineeralexr/Urban-Grocers">Ver proyecto en GitHub</a></p>
 </div>
 
 <section>
