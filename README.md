@@ -45,7 +45,7 @@ He trabajado en diseño de test cases, validación de frontend contra Figma y re
 <p><strong>Mi contribución:</strong> Diseñé y ejecuté test cases funcionales y de UI, validé la implementación contra diseños en Figma y documenté defectos críticos en Jira.</p>
 <p><strong>Resultados:</strong> Identificación de bugs de alta prioridad relacionados con validaciones de formularios y comportamiento de botones clave.</p>
 <p><strong>Herramientas:</strong> Figma, Jira, navegador web.</p>
-  <p><a href="Urban-Routes">Ver proyecto en GitHub</a></p>
+  <p><a href="[Urban-Routes](https://github.com/qaengineeralexr/Urban-Routes)">Ver proyecto en GitHub</a></p>
 </div>
 
 
