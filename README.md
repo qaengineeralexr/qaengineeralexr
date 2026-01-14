@@ -2,7 +2,7 @@
 
 </head>
 <body>
-
+<img src="Banner.png">
 <header>
 <h1>Alex Rodriguez – QA Engineer</h1>
 <p>QA Engineer junior | Manual & API Testing | TripleTen</p>
